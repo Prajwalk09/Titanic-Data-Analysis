@@ -1,2 +1,2 @@
 # Titanic-Data-Analysis
-Predicting whether the passengers of Titanic will survive or not using Logistic Regression
+Predicting whether the passengers of Titanic survived or not using Logistic Regression
